@@ -1,0 +1,4 @@
+[info][title] {{ repo }}: New comment ![/title]Link: {{ url }}
+User: {{ author }}
+Content: {{ body }}
+[/info]
